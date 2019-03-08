@@ -1,4 +1,5 @@
-# Room_automation
+# Home_Automation
+
 This is an application of IOT in real life.
 
 Here, I controlled 2 lights , a fan and a plug socket using the following :
