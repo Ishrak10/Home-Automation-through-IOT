@@ -1,19 +1,21 @@
 # Home_Automation
 
-This is an application of IOT in real life.
+An implementation of Internet of things in which various electronic devices are controlled using a smartphone.
 
-Here, I controlled 2 lights , a fan and a plug socket using the following :
-Node MCU
-Arduino IDE
-4-channel relay
-6 maleToMale wires
-USB cord
-Adapter
+Hardware used :
+- Node MCU ESP8266 wifi microcontroller
+- 4-channel relay
+- Breadboard
+- Jumperwires
+- Smartphone
+- USB cable
+- Laptop
 
-Repository contains 2 php files :
-1.) Select.php
-    This php file is used to select whether the lights should be ON or OFF.
-    It sends the variables to display.php
-    
-2.) Display.php
-    This php file takes variables from select.php and changes the value of variables of the code of Arduino IDE.
+Software used :
+- Arduino IDE
+- Blynk android application
+- IFTT web service
+
+Developement steps :
+
+* I. Setting
