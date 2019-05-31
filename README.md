@@ -18,4 +18,4 @@ Software used :
 
 Developement steps -
 
-*I. Setting
+# I. Setting
