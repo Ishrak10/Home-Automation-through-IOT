@@ -15,7 +15,3 @@ Software used :
 - Arduino IDE
 - Blynk android application
 - IFTT web service
-
-Developement steps -
-
-# I. Setting
