@@ -16,6 +16,6 @@ Software used :
 - Blynk android application
 - IFTT web service
 
-Developement steps :
+Developement steps -
 
-* I. Setting
+*I. Setting
