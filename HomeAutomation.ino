@@ -24,7 +24,7 @@ if(WiFi.status()!= WL_CONNECTED){
 HttpClient client;
 void loop() {
 
-  client.get("http://www.webhost000.com/drogo9191/2.php");
+  client.get(link);
   while (client.available()) {
     char c = client.read();
     if(c=='t'){
