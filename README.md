@@ -13,5 +13,4 @@ Hardware used :
 
 Software used :
 - Arduino IDE
-- Blynk android application
-- IFTT web service
+- Notepad++
