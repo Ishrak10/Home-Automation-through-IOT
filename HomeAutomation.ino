@@ -1,14 +1,15 @@
 #include<ESP8266WiFi.h>
 #include<HttpClient.h>
 
+//connect following pins of arduino to relay pins respectively 
 #define D0 tubelight
 #define D1 nightlamp
 #define D2 fan
 #define D3 ac
 
-char *ssid = "BADDE";
-char *pwd = "drogo9191"
-char *link = "http://www.webhost000.com/drogo9191/2.php"
+char *ssid = "ssid-of-your-wifi";
+char *pwd = "password-of-your-wifi"
+char *link = "http://www.webhost000.com/drogo9191/2.php" //link of the file from which data is retrieved
 
 void setup() {
   pinMode(D0,OUTPUT);
